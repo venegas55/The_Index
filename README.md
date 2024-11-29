@@ -5,3 +5,5 @@ This repository is to make tests on git like checking logs, add files to a commi
 Also to learn how to make those files and so on...
 
 See you soon©️
+
+This next commit will try to make it without the flag -m on windows in VSCode terminal.
